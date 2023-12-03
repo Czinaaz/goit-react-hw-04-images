@@ -1,0 +1,10 @@
+.img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+.img:hover {
+    transform: scale(1.05);
+}
